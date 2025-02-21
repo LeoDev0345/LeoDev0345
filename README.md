@@ -19,7 +19,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,discord,androidstudio,cpp,docker,github,git,grafana,prometheus,idea,kubernetes,linux,mysql,phpstorm,powershell,py,visualstudio,vscode,)](https://skillicons.dev)
 
----
-## 📊 Github Stats
 
 
